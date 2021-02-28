@@ -23,7 +23,7 @@ const Navbar = () => {
     return (
         <div className='navbar'>
             <h1 className="navbar__header">
-                Bolgmania 💬 </h1>
+                Blogmania 💬 </h1>
                 {isSignedIn && (<div className="blog__search">
                     <div className='blog__search'>
                         <input 
